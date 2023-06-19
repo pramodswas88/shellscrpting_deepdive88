@@ -39,8 +39,8 @@ Adding or removing users
 Coding Concepts
 Usually coding have universal concepts.
 
-Variables
-Data types
-Conditions
-Functions
-Loops
+-Variables
+-Data types
+-Conditions
+-Functions
+-Loops
